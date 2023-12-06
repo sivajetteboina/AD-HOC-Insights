@@ -1,5 +1,8 @@
 # AD-HOC-Insights
-[Link to Presentation](https://studio.youtube.com/video/cjtc7OFIUyE/edit)
+[Link to Presentation](https://www.youtube.com/watch?v=cjtc7OFIUyE)
+
+![AD_HOC_Insights](https://github.com/sivajetteboina/AD-HOC-Insights/assets/144469525/696db768-ccac-44e5-9794-12142fbffa90)
+
 Domain : Consumer Goods
 
 Function : Excecutive Management
